@@ -1,3 +1,3 @@
 #!/bin/bash
 #add fix to exercise4-server1 here
-ECHO "192.168.60.11 server2" >> /etc/hosts
+echo "192.168.60.11 server2" >> /etc/hosts
